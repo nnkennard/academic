@@ -1,0 +1,19 @@
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$linkColor: #212529 !important;
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;500;800');
+
+
+$bodyFont: "Lato"; 
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+  font-size: 10pt;
+}
+
+body a {
+  color: $linkColor
+}
