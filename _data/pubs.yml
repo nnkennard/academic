@@ -19,7 +19,7 @@ papers:
 
 - key: nnk_2022
   title: "DISAPERE: A Dataset for Discourse Structure in Peer Review Discussions"
-  authors: Neha Kennard, Tim O’Gorman, Rajarshi Das, Akshay Sharma, Chhandak Bagchi, Matthew Clinton, Pranay Kumar Yelugam, Hamed Zamani, and Andrew McCallum
+  authors: <b>Neha Nayak Kennard</b>, Tim O’Gorman, Rajarshi Das, Akshay Sharma, Chhandak Bagchi, Matthew Clinton, Pranay Kumar Yelugam, Hamed Zamani, and Andrew McCallum
   venueyear: NAACL 2022
   doi: 10.18653/v1/2022.naacl-main.89
   code: https://github.com/nnkennard/DISAPERE
